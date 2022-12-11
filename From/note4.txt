@@ -1,0 +1,13 @@
+comment khi kéo ticket
+
+
+API
+Service
+Repositoty
+
+N-tier tìm hiểu
+
+Entity
+Model
+DTO
+(ETO)

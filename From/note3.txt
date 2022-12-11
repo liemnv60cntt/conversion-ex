@@ -1,0 +1,38 @@
+Jira, workspace, confluence, quản lý dự án-ticket, chứa docs dự án
+agile/scrum: 2 tuần làm tất cả các bước của waterfall, phải làm xong
+Technical design*
+Development*
+Nếu k làm xong thì log vào Restrospectives
+sprints làm việc, tới acceptance mới xong
+suport hết hình, luôn có log lại
+Environments
+Story point: theo độ khó ticket, 1 point 4 giờ thường là dị, hiểu ticket mới estimate, chạy theo fibonacci number
+Velocity chart, để report cuối sprint
+ git
+
+check list:
+-pull lastest
+-create branch
+-pull req
+
+
+git clone
+cd
+git ls
+git status
+git pull
+git checkout -b feature/MRS2-537 (tạo đúng name)
+git checkout -b hotfix/MRS2-537 (fix trên prod)
+
+git status
+	modified: Bui...
+git diff ...
+git add .
+git commit -m 'MRS2, add console write test EvenBusService func' (ghi cmt để tìm lại khi bị out update)
+git push
+git push --set-upstream .....
+create pull request
+
+
+
+

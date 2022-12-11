@@ -1,0 +1,23 @@
+kéo ticket
+string?: .net6
+primitie int bool float
+obj string
+empty là chuỗi rỗng ko null
+null là null
+char[] string
+partial trong class C# thì class đó đc khai báo nhiều chỗ
+
+Nên tại project class libary
+Ko nên tạo nhiều folder trong 1 project
+cách đặt tên trong c#
+
+
+<T> thay object
+var
+don't use logic in API controller, use filter
+filter in out
+sử dụng Jira nhìu, cần tập
+
+Tuần sau:
+filter-attributes, middleware, configuration
+https://code-maze.com/unit-testing-aspnetcore-web-api/
